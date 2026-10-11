@@ -1,0 +1,9 @@
+"outcome","comparison","pooled_delta","boot_lo","boot_hi","inst_won","inst_tied","inst_lost","mean_diff","wilcoxon_p","rank_biserial"
+"risk_at_best_roi","RISK vs EFF",-0.447,-0.678,-0.226,0,9,11,-0.235,0.00386,-1
+"best_roi","RISK vs EFF",0.002,-0.085,0.105,6,9,5,0.29,0.625,0.182
+"risk_at_best_roi","RAND-RISK vs EFF",-0.038,-0.22,0.122,3,12,5,-0.056,0.363,-0.389
+"best_roi","RAND-RISK vs EFF",0.052,0.022,0.153,9,11,0,0.977,0.00915,1
+"risk_at_best_roi","CRIT vs EFF",-0.529,-0.78,-0.294,0,7,13,-0.315,0.00166,-1
+"best_roi","CRIT vs EFF",-0.123,-0.275,-0.052,1,7,12,-2.51,0.00266,-0.956
+"risk_at_best_roi","CRIT vs RISK",-0.203,-0.416,-0.055,0,10,10,-0.08,0.00592,-1
+"best_roi","CRIT vs RISK",-0.165,-0.34,-0.075,0,8,12,-2.8,0.00253,-1

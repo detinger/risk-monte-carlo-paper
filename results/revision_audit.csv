@@ -1,0 +1,7 @@
+"placement","arm","cuts_per_run","mean_leaves","zero_range_share","differs_from_eff_share"
+"multi","CRIT",3715,5.25,0.177,0.577
+"single","CRIT",3626,5.23,0.179,0.58
+"multi","RAND-RISK",3816,3.46,0.38,0.437
+"single","RAND-RISK",3778,3.42,0.369,0.442
+"multi","RISK",3503,4.38,0.489,0.327
+"single","RISK",3523,4.38,0.492,0.327

@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Large binary result files (produced by the pipeline; not tracked)
+results/*.rds
+results/checkpoints_*/
+results/checkpoints_scale_balanced*/
+results/checkpoints_production*/
+
+# External datasets (download separately; see README §real-world data)
+data/
+
+# Log files
+results/*.log

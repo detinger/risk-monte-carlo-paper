@@ -1,0 +1,4 @@
+"comparison","pooled_delta","boot_lo","boot_hi","inst_won","inst_tied","inst_lost","mean_diff","wilcoxon_p","rank_biserial"
+"RISK-p5 vs RISK",-0.007,-0.058,0.046,7,9,4,-0.136,0.689,0.152
+"RISK-p10 vs RISK",-0.009,-0.075,0.051,7,11,2,-0.28,0.407,0.333
+"RISK-p60 vs RISK",-0.041,-0.131,0.031,3,12,5,-1.448,0.726,-0.167
